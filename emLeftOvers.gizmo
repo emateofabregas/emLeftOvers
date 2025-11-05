@@ -6,7 +6,7 @@ Group {
  addUserKnob {6 view_leftovers l "View Left Overs" t "Isolate LeftOvers to check them." +STARTLINE}
  addUserKnob {1 lgt_prefix l "lgt prefix" t "Please put your lighting prefix here. For example: 'C_l_', 'RGBA_'."}
  lgt_prefix C_l_
- addUserKnob {1 emission_prefix l "emission prefix" t "Please put your emission prefix here. For example: 'C_emission', 'Emission', 'emission'."}
+ addUserKnob {1 emission_prefix l "emission prefix" t "Please put your emission prefix there. For example: 'C_emission', 'Emission', 'emission'."}
  emission_prefix C_emission
  addUserKnob {26 gap01 l " " T " "}
  addUserKnob {26 autor l "" +STARTLINE T "<font color=\"grey\">emLeftOvers v1.1 | emateofabregas | 2024-2025</font>"}
